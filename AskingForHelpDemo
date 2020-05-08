@@ -6,5 +6,5 @@ I left it for a bit but when I came back, my computer had died.
 When I plugged it back in, none of my folders were open.
 I clicked on one and opened a command prompt with the hope of committing my changes using this: 
 git commit -m "this is just a test”. When I input that into the command prompt, I received this message:
- 
+(GitTest.png) 
 I tried googling it but could not really find or at least understand what the issue was in this specific situation. Any help would be much appreciated! 

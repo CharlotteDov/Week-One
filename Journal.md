@@ -8,10 +8,11 @@ Hypothesis and Zotero:
 -	Zotero particularly will save me from doing all my citations for a paper an hour before its due. I know I will being getting a lot more out of this course, but honestly, learning about Zotero has made it already worthwhile
 
 Github:
--	I have to admit this site confuses me, but between checking what people are posting on Github and googling, I think I am starting to understand. It will take some more playing around for sure
+-	I have to admit this site confuses me, but between checking what people are posting on Discord and googling, I think I am starting to understand. It will take some more playing around for sure
+- I went through a process where nothing was working right because I forgot the .md after the file name. I worked on it for a bit and then stepped away, as soon as I came back I realized my mistake. Breaks are important. 
 
 Asking for Help Exercise and Discord:
 -	I was very grateful for Discord because when I read the asking for help prompt, I definitely overthought it. Before I even had the chance to ask for help, I opened it up and saw all the posts about it and they gave me a better understanding of the exercise
 -	Seeing as I have never opened a command prompt before, I was a little nervous about the exercise, but I found a lot of great resources on google about the command prompt and also Github in general. All of which I could save on Zotero, which I absolutely love
 
-Overall, I was anxious about this course and really did not know what to expect. I still don’t really know, but I feel supported and like I have the tools to get through. 
+Overall, I was anxious about this course and really did not know what to expect. Digital history was not something I had ever paid much attention to, but it is fascinating to see how complex it is and the fascinating research and discussions it opens up. I still don’t really know exactly what to expect from this course, but I feel supported and like I have the tools to get through. I feel that this course will enrich my understanding of what it means to be a historian through taking risks and looking at new ways to research and interpret the past. 
